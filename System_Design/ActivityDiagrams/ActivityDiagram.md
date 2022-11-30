@@ -21,4 +21,4 @@
 
 # 3. Изменить имя
 
-![Диаграмма активностей 3](C:\Users\vlad2\IdeaProjects\documentation_TRTPO\DiagramPictures\ActivityDiagram3.png)
+![Диаграмма активностей 3](/System_Design/DiagramPictures/ActivityDiagram3.png)

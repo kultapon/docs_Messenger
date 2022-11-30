@@ -26,7 +26,7 @@
 # 2 Варианты использования
 
 Use Case диаграммы приложения "# Messeneger":
-![Диалог добавления напоминания](C:\Users\vlad2\IdeaProjects\documentation_TRTPO\DiagramPictures\UseCaseDiagram.png)
+![Диалог добавления напоминания](/System_Design/DiagramPictures/UseCaseDiagram.png)
 
 
 <a name="auth"/>
