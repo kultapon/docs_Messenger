@@ -50,7 +50,7 @@
 
 <a name="6"></a>
 ## 6. Результаты
-[Результат теста](TestResult.md)
+[Результат теста](/System_Design/Tests/TestsResult.md)
 
 <a name="7"></a>
 ## 7. Заключение
